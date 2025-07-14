@@ -47,6 +47,6 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
   <a href="karchevskii.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Mia%20Assist-Website-brightgreen?style=flat&logo=vercel" />
+    <img alt="Website" src="https://img.shields.io/badge/Personal-Website-brightgreen?style=flat&logo=vercel" />
   </a>
 </p>
