@@ -46,7 +46,7 @@
   <a href="mailto:dinar@karchevskii.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
-  <a href="karchevskii.com" target="_blank">
+  <a href="https://karchevskii.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Personal-Website-brightgreen?style=flat&logo=vercel" />
   </a>
 </p>
