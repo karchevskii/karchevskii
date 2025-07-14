@@ -40,13 +40,13 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinar-karchevskii/" target="_blank">
+  <a href="https://www.linkedin.com/in/karchevskii/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:dinar@karchevskii.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
-  <a href="https://mia-assist.com" target="_blank">
+  <a href="karchevskii.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Mia%20Assist-Website-brightgreen?style=flat&logo=vercel" />
   </a>
 </p>
