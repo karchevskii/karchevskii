@@ -30,7 +30,6 @@ Here are some things I've worked on and care about:
 - 🛰️ **IoT Observability Shipper** – Lightweight agent for embedded Linux devices to collect logs & metrics and send them to platforms like **Datadog**
 - 🔥 **Anomaly Detection** – ML and statistical techniques to detect faults on the edge, including thermal camera use cases
 - 🧩 **Distributed Systems Playground** – Microservices Tic-Tac-Toe with FastAPI, Redis, PostgreSQL clusters, and Kubernetes
-- 📱 **Mia Assist** – A smart speaker and companion assistant app for elderly users (in progress) – [mia-assist.com](https://mia-assist.com)
 - 🛠️ Always tinkering with: edge AI, embedded Linux, Kubernetes, CI/CD, performance monitoring, and automation
 
 ---
