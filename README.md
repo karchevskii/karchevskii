@@ -1,8 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dinar Karchevskii</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+IoT+%7C+AI+%7C+Cloud+%7C+DevOps;I+build+clean%2C+scalable+and+smart+systems+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm Dinar</h1>
 
 ---
 
